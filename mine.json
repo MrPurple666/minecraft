@@ -35,6 +35,24 @@
          "versao":"0.16.0",
          "tipo":"Legacy",
          "link":"https://mcpedl.org/uploads_files/01-01-2021/minecraft-pe-0-16-0.apk"
+      },
+      {
+         "nome":"Minecraft 1.20.12",
+         "versao":"1.20.12",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/19-09-2023/minecraft-1-20-30.apk"
+      },
+      {
+         "nome":"Minecraft 0.17.0",
+         "versao":"0.17.0",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/02-01-2021/minecraft-pe-0-17-0.apk"
+      },
+      {
+         "nome":"Minecraft 1.20.40.20",
+         "versao":"1.20.40.20",
+         "tipo":"Beta",
+         "link":"https://mcpedl.org/uploads_files/07-09-2023/minecraft-1-20-40-20.apk"
       }
    ]
 }
