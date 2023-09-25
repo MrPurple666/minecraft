@@ -221,6 +221,96 @@
          "versao":"1.2.13.60",
          "tipo":"Stable",
          "link":"https://archive.org/download/minecraft-1-2-13-60/Minecraft-1-2-13-60.apk"
+      },
+      {
+         "nome":"Minecraft 1.4.0",
+         "versao":"1.4.0",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/16-02-2023/minecraft-1-4-0.apk"
+      },
+      {
+         "nome":"Minecraft 1.4.1",
+         "versao":"1.4.1",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/16-02-2023/minecraft-1-4-1.apk"
+      },
+      {
+         "nome":"Minecraft 1.4.2",
+         "versao":"1.4.2",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/16-02-2023/minecraft-1-4-2.apk"
+      },
+      {
+         "nome":"Minecraft 1.4.4",
+         "versao":"1.4.4",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/02-08-2021/minecraft-pe-1-4-4.apk"
+      },
+      {
+         "nome":"Minecraft 1.5.0",
+         "versao":"1.5.0",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/18-02-2021/minecraft-pe-1-5-0.apk"
+      },
+      {
+         "nome":"Minecraft 1.5.1",
+         "versao":"1.5.1",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/06-12-2020/minecraft-pe-1-5-1.apk"
+      },
+      {
+         "nome":"Minecraft 1.5.2",
+         "versao":"1.5.2",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/07-12-2020/minecraft-pe-1-5-2.apk"
+      },
+      {
+         "nome":"Minecraft 1.5.3",
+         "versao":"1.5.3",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/07-12-2020/minecraft-pe-1-5-3.apk"
+      },
+      {
+         "nome":"Minecraft 1.6.0",
+         "versao":"1.6.0",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/07-08-2021/minecraft-pe-1-6-0.apk"
+      },
+      {
+         "nome":"Minecraft 1.6.1",
+         "versao":"1.6.1",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/07-08-2021/minecraft-pe-1-6-1.apk"
+      },
+      {
+         "nome":"Minecraft 1.7.0",
+         "versao":"1.7.0",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/18-02-2021/minecraft-pe-1-7-0.apk"
+      },
+      {
+         "nome":"Minecraft 1.8.0",
+         "versao":"1.8.0",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/21-11-2020/minecraft-pe-1-8-0.apk"
+      },
+      {
+         "nome":"Minecraft 1.8.1",
+         "versao":"1.8.1",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/06-12-2020/minecraft-pe-1-8-1.apk"
+      },
+      {
+         "nome":"Minecraft 1.9.0",
+         "versao":"1.9.0",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/13-07-2021/minecraft-pe-1-9-0.apk"
+      },
+      {
+         "nome":"Minecraft 1.10.0",
+         "versao":"1.10.0",
+         "tipo":"Stable",
+         "link":"https://mcpedl.org/uploads_files/24-07-2020/minecraft-pe-1-10-0.apk"
       }
    ]
 }
