@@ -53,6 +53,90 @@
          "versao":"1.20.40.20",
          "tipo":"Beta",
          "link":"https://mcpedl.org/uploads_files/07-09-2023/minecraft-1-20-40-20.apk"
+      },
+      {
+         "nome":"Minecraft 0.17.0.02",
+         "versao":"0.17.0.2",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/06-01-2021/minecraft-pe-0-17-0-2.apk"
+      },
+      {
+         "nome":"Minecraft 0.16.2",
+         "versao":"0.16.2",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/01-01-2021/minecraft-pe-0-16-2.apk"
+      },
+      {
+         "nome":"Minecraft 0.14.0",
+         "versao":"0.14.0",
+         "tipo":"Legacy",
+         "link":"https://planet-minecraft.com/uploads_files/03-01-2020/Minecraft-Pocket-Edition-0.14.0-2.3.6.apk"
+      },
+      {
+         "nome":"Minecraft 0.14.3",
+         "versao":"0.14.3",
+         "tipo":"Legacy",
+         "link":"https://planet-minecraft.com/uploads_files/03-01-2020/Minecraft-PE-0-14-3.apk"
+      },
+      {
+         "nome":"Minecraft 1.0.0",
+         "versao":"1.0.0",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/07-06-2022/Minecraft-pe-1-0-0.apk"
+      },
+      {
+         "nome":"Minecraft 1.0.3",
+         "versao":"1.0.3",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/05-01-2021/minecraft-pe-1-0-3.apk"
+      },
+      {
+         "nome":"Minecraft 1.0.5",
+         "versao":"1.0.5",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/05-01-2021/minecraft-pe-1-0-3.apk"
+      },
+      {
+         "nome":"Minecraft 1.0.9",
+         "versao":"1.0.9",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/31-12-2020/minecraft-pe-1-0-9.apk"
+      },
+      {
+         "nome":"Minecraft 1.0.0.0",
+         "versao":"1.0.0.0",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/03-05-2023/minecraft-pe-1-0-0-0.apk"
+      },
+      {
+         "nome":"Minecraft 1.1.0",
+         "versao":"1.1.0",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/31-12-2020/Minecraft-pe-1-1-0.apk"
+      },
+      {
+         "nome":"Minecraft 1.1.1",
+         "versao":"1.1.1",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/21-04-2021/Minecraft-PE-1-1-1.apk"
+      },
+      {
+         "nome":"Minecraft 1.1.3",
+         "versao":"1.1.3",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/31-12-2020/Minecraft-pe-1-1-3%20.apk"
+      },
+      {
+         "nome":"Minecraft 1.1.5",
+         "versao":"1.1.5",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/21-04-2021/minecraft-pe-1-1-5.apk"
+      },
+      {
+         "nome":"Minecraft 1.2.0",
+         "versao":"1.2.0",
+         "tipo":"Legacy",
+         "link":"https://mcpedl.org/uploads_files/30-12-2020/minecraft-pe-1-2-0.apk"
       }
    ]
 }
