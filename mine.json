@@ -383,6 +383,12 @@
          "versao":"1.14.60",
          "tipo":"Stable",
          "link":"https://mcpedl.org/uploads_files/28-06-2020/minecraft-pe-1-14-60.apk"
+      },
+      {
+         "nome":"Minecraft 1.20.40.24",
+         "versao":"1.20.40.24",
+         "tipo":"Beta",
+         "link":"https://planet-minecraft.com/uploads_files/04-10-2023/minecraft-1-20-40-24.apk"
       }
    ]
 }
