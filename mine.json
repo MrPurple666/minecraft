@@ -389,6 +389,12 @@
          "versao":"1.20.40.24",
          "tipo":"Beta",
          "link":"https://planet-minecraft.com/uploads_files/04-10-2023/minecraft-1-20-40-24.apk"
+      },
+      {
+         "nome":"Minecraft 1.20.32",
+         "versao":"1.20.32",
+         "tipo":"Stable",
+         "link":"https://planet-minecraft.com/uploads_files/05-10-2023/minecraft-1-20-32.apk"
       }
    ]
 }
