@@ -407,6 +407,12 @@
          "versao":"1.20.50.21",
          "tipo":"Beta",
          "link":"https://mcpedl.org/uploads_files/18-10-2023/minecraft-1-20-50-21.apk"
+      },
+      {
+         "nome":"Minecraft 1.20.40",
+         "versao":"1.20.40",
+         "tipo":"Stable",
+         "link":"https://planet-minecraft.com/uploads_files/24-10-2023/minecraft-1-20-40.apk"
       }
    ]
 }
